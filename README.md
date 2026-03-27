@@ -1,6 +1,7 @@
 # NIpc-Modal
 Natural intelligence 
 CLONE:
+https://github.com/Jayce2323/Samsara-Architeture-/blob/1a59c3dada5f3ba69cff4861814d14518d5777d5/README.md
 https://github.com/Jayce2323/Samsara-Architeture-.git
 
 APPLY:
