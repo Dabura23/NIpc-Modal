@@ -1,5 +1,8 @@
-# Samsara-Architeture-
-THE FUTURE
+# Samsara-Architecture-
+THE FUTURE is now
+
+https://mobleyhelms.com/
+
 Defines the core Samsara conceptual architecture — a wave/particle event chain model covering motion phases, creation/destruction reactions, and material component properties.
 
 New: samsara.js
